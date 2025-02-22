@@ -19,6 +19,7 @@ namespace ConsoleApp2
     }
     class Dog
     {
+        Console.WriteLine();
         public string Name { get; set; }
     }
     class DogCage
